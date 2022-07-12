@@ -1,4 +1,4 @@
-# :u7981:	 紧急提醒 :exclamation::exclamation::exclamation:
+# :u7981:	 紧急提 :exclamation::exclamation::exclamation:
 2022年4月27日 03：59 收到 Fly.io 官方邮件，邮件正文和 Issue https://github.com/lyz7805/v2ray4flyio/issues/22 中的一致。
 
 邮件解读：**Fly.io 免费版不允许安装 V2Ray 此类代理，只能用于 Web 应用。只有付费套餐才能用，要是还想用，那就得升级套餐，而且人家还给自动升级到 10 美元、月。如果不想升级，那就得在 24 小时内删除应用。**
